@@ -1,2 +1,2 @@
-# First Project
-A booklet about a rock band's album
+# Album Booklet
+Making a virtual booklet of an album made by a music artist.
