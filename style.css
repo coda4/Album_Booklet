@@ -1,0 +1,18 @@
+body {
+    
+}
+
+#title {
+    font-family: 'Coda', cursive;
+}
+
+.description {
+    font-family: 'Coda', cursive;
+    
+}
+
+img {
+    width: auto;
+    height: 200px;
+    border-radius: 15px;
+}
